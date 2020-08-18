@@ -6,8 +6,8 @@
 | :---         |     :---:      |          ---: |
 |   <a href="Pack/3 USB 7x18650 DIY.html" rel="some text"><img src="Pack/3 USB 7x18650 DIY.jpg" width="150" /></a>   | 3 USB 7x18650 батарея DIY банк питания коробка держатель чехол ЖК-дисплей батарея зарядка для мобильного телефона ПК с светодиодный фонарик  <br>Комплект: 1 шт. Наличие: 1 кмпл. | <a href="https://aliexpress.ru/item/33046035975.html" rel="some text">Магазин</a><br/>287+150= 437     
 |   <img src="Pack/BMS-Shleif-Xiaomi M365.jpg" width="150" />   | Шлейф BMS Xiaomi M365 <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>300+150= 450
-|   <img src="Pack/BMS Xiaomi M365.jpg" width="150" />   |  Xiaomi M365 <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>1437+250= 1687
-|   <img src="Pack/ControllerXiaomi M365.jpg" width="150" />   | Контроллер BMS Xiaomi M365 <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>1863+337= 2250
+|   <img src="Pack/BMS Xiaomi M365.jpg" width="150" />   | BMS Xiaomi M365 <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>1437+250= 1687
+|   <img src="Pack/ControllerXiaomi M365.jpg" width="150" />   | Контроллер Xiaomi M365 <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>1863+337= 2250
 |   <img src="Pack/bms16s.jpg" width="150" />   | BMS 16s Battery Tester 16S 30A Lithium Battery Protect Board BMS P C B Board with Balance Charging Testing Equipment <br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>500+300= 800
 |   <img src="Pack/bms10s.jpg" width="150" />   | BMS 10S 30A Mini Lithium Battery Protect Board BMS<br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>542+308= 850
 |  <img src="Pack/bms12s.jpg" width="150" />   | BMS 12S 40A Lithium Battery Protect Board BMS<br>Комплект: 1 шт. Наличие: 2 кмпл. | <br/>2000
